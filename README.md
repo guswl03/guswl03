@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyunji1022/)
 [![Naver Blog](https://img.shields.io/badge/Naver_Blog-111111?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/hglee1022)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hy._.1022g/)
-[![Notion](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Lee-hyunji-22475975085e80efad9fc447cc192b61)
+
 
 </div>
 
