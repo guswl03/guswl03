@@ -20,8 +20,11 @@
 
 - 성신여자대학교 융합보안공학과 재학
 - 5G 및 SGX 관련 연구를 수행하는 학부연구생
-- 보안 요구사항 분석과 클라우드 기반 5G 코어 네트워크 보안에 관심
-- 배운 내용을 프로젝트와 글로 남기며 꾸준히 성장하고 있습니다
+
+## Interest
+
+- 보안 요구사항 분석
+- 클라우드 기반 5G 코어 네트워크 보안
 
 ## Research & Activities
 
@@ -39,6 +42,9 @@
 
 ## Projects
 
+- [**KB-ITs-Your-Life-7**](https://github.com/guswl03/KB-ITs-Your-Life-7) — KB IT’s Your Life 7기 부트캠프 포트폴리오
+- [**KB IT’s Your Life**](https://blog.naver.com/PostList.naver?blogId=hglee1022&categoryNo=25&from=postList) — 부트캠프 학습 기록
+- [**기자단 활동 기록**](https://blog.naver.com/PostList.naver?blogId=hglee1022&from=postList&categoryNo=25) — 네이버 블로그
 - [**IT-contest**](https://github.com/guswl03/IT-contest) — IT 공모전 프로젝트
 - [**gilgilstaudy**](https://github.com/guswl03/gilgilstaudy) — 네트워크·시스템 프로그래밍 학습 기록
 
