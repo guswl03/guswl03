@@ -4,8 +4,7 @@
 
 **Security Engineering Student · Undergraduate Researcher**
 
-5G, cloud, and network security를 공부하며  
-기술을 이해하고 기록하는 보안 연구자를 지향합니다.
+어서오세요.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyunji1022/)
 [![Naver Blog](https://img.shields.io/badge/Naver_Blog-111111?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/hglee1022)
