@@ -2,7 +2,7 @@
 
 # Lee Hyunji
 
-**BoB 15**
+**BoB 15** <br>
 **Security Engineering Student · Undergraduate Researcher**
 
 어서오세요.
