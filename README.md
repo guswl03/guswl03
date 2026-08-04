@@ -51,9 +51,7 @@
 
 ## Projects
 
-### Portfolio & Activities
-
-- [**KB-ITs-Your-Life-7**](https://github.com/guswl03/KB-ITs-Your-Life-7) — KB IT’s Your Life 7기 부트캠프 포트폴리오
+### KB IT’s Your Life
 
 <div align="center">
   <a href="https://www.gitanimals.org/">
@@ -66,7 +64,11 @@
   </a>
 </div>
 
+- [**KB-ITs-Your-Life-7**](https://github.com/guswl03/KB-ITs-Your-Life-7) — KB IT’s Your Life 7기 부트캠프 포트폴리오
 - [**KB IT’s Your Life 기자단 활동 기록**](https://blog.naver.com/PostList.naver?blogId=hglee1022&categoryNo=25&from=postList) — 네이버 블로그
+
+### Contest
+
 - [**IT-contest**](https://github.com/guswl03/IT-contest) — IT 공모전 프로젝트
 
 ### BoB 15 · Security Study
