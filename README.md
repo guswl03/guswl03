@@ -86,8 +86,6 @@
 
 - [**supply-chain-security-study**](https://github.com/guswl03/supply-chain-security-study) — 개발·클라우드·네트워크·AI로 확장하는 5주 공급망 보안 커리큘럼
 - [**supply-chain-security-notes**](https://github.com/guswl03/supply-chain-security-notes) — 소프트웨어 공급망 보안 학습 노트와 실습 기록
-- [**gilgilstaudy**](https://github.com/guswl03/gilgilstaudy) — 보안·개발 스터디 기록
-- [**cppcore-study**](https://github.com/guswl03/cppcore-study) — 현대 C++ 핵심 개념과 라이브러리 설계를 다루는 10주 학습 과정
 
 ---
 
