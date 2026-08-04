@@ -62,3 +62,11 @@
 <div align="center">
   <sub>Learn deeply. Build carefully. Document clearly.</sub>
 </div>
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=guswl03&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/guswl03"
+  width="600"
+  height="300"
+/>
+</a>
