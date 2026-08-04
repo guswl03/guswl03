@@ -11,17 +11,15 @@
 [![Naver Blog](https://img.shields.io/badge/Naver_Blog-111111?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/hglee1022)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hy._.1022g/)
 
-</div>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=guswl03&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/guswl03"
+    width="600"
+    height="300"
+    alt="gitanimals farm"
+  />
+</a>
 
-<div align="center">
-  <a href="https://www.gitanimals.org/">
-    <img
-      src="https://render.gitanimals.org/guilds/872388662283845032/draw"
-      width="600"
-      height="300"
-      alt="gitanimals"
-    />
-  </a>
 </div>
 
 ---
@@ -53,20 +51,33 @@
 
 ## Projects
 
+### Portfolio & Activities
+
 - [**KB-ITs-Your-Life-7**](https://github.com/guswl03/KB-ITs-Your-Life-7) — KB IT’s Your Life 7기 부트캠프 포트폴리오
+
+<div align="center">
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/872388662283845032/draw"
+      width="600"
+      height="300"
+      alt="gitanimals guild"
+    />
+  </a>
+</div>
+
 - [**KB IT’s Your Life 기자단 활동 기록**](https://blog.naver.com/PostList.naver?blogId=hglee1022&categoryNo=25&from=postList) — 네이버 블로그
 - [**IT-contest**](https://github.com/guswl03/IT-contest) — IT 공모전 프로젝트
+
+### BoB 15 · Security Study
+
+- [**supply-chain-security-study**](https://github.com/guswl03/supply-chain-security-study) — 개발·클라우드·네트워크·AI로 확장하는 5주 공급망 보안 커리큘럼
+- [**supply-chain-security-notes**](https://github.com/guswl03/supply-chain-security-notes) — 소프트웨어 공급망 보안 학습 노트와 실습 기록
+- [**gilgilstaudy**](https://github.com/guswl03/gilgilstaudy) — 보안·개발 스터디 기록
+- [**cppcore-study**](https://github.com/guswl03/cppcore-study) — 현대 C++ 핵심 개념과 라이브러리 설계를 다루는 10주 학습 과정
 
 ---
 
 <div align="center">
   <sub>Learn deeply. Build carefully. Document clearly.</sub>
 </div>
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=guswl03&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/guswl03"
-  width="600"
-  height="300"
-/>
-</a>
