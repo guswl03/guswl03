@@ -46,6 +46,17 @@
 - [**KB IT’s Your Life 기자단 활동 기록**](https://blog.naver.com/PostList.naver?blogId=hglee1022&categoryNo=25&from=postList) — 네이버 블로그
 - [**IT-contest**](https://github.com/guswl03/IT-contest) — IT 공모전 프로젝트
 
+<div align="center">
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/872388662283845032/draw"
+      width="600"
+      height="300"
+      alt="gitanimals"
+    />
+  </a>
+</div>
+
 ---
 
 <div align="center">
